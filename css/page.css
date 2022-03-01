@@ -3,7 +3,7 @@ body {
 }
 .container{
   background: #EEEEEE;
-  width: 80%; /* 幅は親要素の80% */
-  max-width: 900px; /* 幅は最大500pxまでしか広げない */
-  margin: 0 auto; /* 左右をauto指定にして左右中央揃えに */
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
 }
